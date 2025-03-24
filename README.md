@@ -1,1 +1,1 @@
-# calculator
+# Bill calculator using DOM
